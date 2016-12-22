@@ -23,7 +23,7 @@
   overflow-y: scroll;
 }
 
-:host /deep/ h2 {
+h2 {
   color: #6E7790;
   font-size: 22px;
   position: relative;
@@ -37,7 +37,7 @@
   }
 }
 
-:host /deep/ .section {
+.section {
   margin: 10px 0;
   display: flex;
 }

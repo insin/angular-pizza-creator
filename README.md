@@ -1,15 +1,12 @@
-# Angular Pizza Creator
+# React Pizza Creator
 
-<a href="https://ultimateangular.com" target="_blank"><img src="https://toddmotto.com/img/ua.png"></a>
+A React version of @toddmotto's [angular-pizza-creator](https://github.com/toddmotto/angular-pizza-creator) app.
 
-> Check out the [live demo](https://toddmotto.com/angular-pizza-creator/)!
+### Live Versions
+
+* [React version](https://react-pizza-creator.surge.sh/) (JS: 47.58 KB gzipped)
 
 ### Features
 
-* Reactive Form APIs
-* FormGroups
-* FormArrays
-* FormControls
-* Custom FormControls
-* ControlValueAccessor
-* Ahead-of-Time compiled
+* React
+* Developed using [nwb](https://github.com/insin/nwb)
